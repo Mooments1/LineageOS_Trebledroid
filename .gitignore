@@ -1,0 +1,11 @@
+# Образы не хранятся в git (лимит GitHub 100 МБ) — только в GitHub Releases.
+*.img
+*.img.xz
+*.xz
+
+# Логи и мусор сборки
+*.log
+logs/
+out/
+.tmp/
+.DS_Store
