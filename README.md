@@ -1,4 +1,4 @@
-# Lineage
+# LineageOS
 
 Vanilla LineageOS 23.2 GSI (Android 16 QPR2), built first of all for Unisoc chips.
 
