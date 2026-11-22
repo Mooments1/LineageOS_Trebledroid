@@ -6,8 +6,8 @@ Vanilla LineageOS 23.2 GSI (Android 16 QPR2), built first of all for Unisoc chip
 
 Images are in the GitHub Release:
 
-- `lineage-23.2-20261122-UNOFFICIAL-arm64_bvNE.img.xz` — EROFS, main
-- `lineage-23.2-20261122-UNOFFICIAL-arm64_bvN4.img.xz` — ext4, fallback
+- `lineage-23.2-20261122-UNOFFICIAL-arm64_bvNE.img.xz` — EROFS
+- `lineage-23.2-20261122-UNOFFICIAL-arm64_bvN4.img.xz` — ext4
 
 ## Credits
 
